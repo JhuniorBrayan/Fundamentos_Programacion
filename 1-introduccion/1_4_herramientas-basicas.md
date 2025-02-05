@@ -10,7 +10,7 @@ Este documento presenta las herramientas esenciales para iniciarse en la program
 
 ## Desarrollo
 
----
+
 ### 1. Editores de Texto y Entornos de Desarrollo
 
 Para escribir y ejecutar código en Python, es recomendable utilizar un editor de texto o un entorno de desarrollo integrado (IDE) que facilite la escritura del código. Algunas opciones populares incluyen:
@@ -20,7 +20,7 @@ Para escribir y ejecutar código en Python, es recomendable utilizar un editor d
 - **Jupyter Notebook**: Ideal para pruebas y desarrollo interactivo, muy utilizado en ciencia de datos.
 - **IDLE**: Editor básico que viene por defecto con Python. Si eres pricipiante no lo recomiendo, comienza con Pycharm, Jupyter Notebook o Visual Studio Code (VS Code)
 
----
+
 ### 2. Intérprete y Gestor de Paquetes
 
 Python requiere un intérprete para ejecutar el código. Además, cuenta con herramientas que facilitan la gestión de bibliotecas y dependencias. Algunas de las opciones más utilizadas son:
@@ -40,7 +40,7 @@ Ejemplo de creación de un entorno virtual:
 $ python -m venv mi_entorno
 $ source mi_entorno/bin/activate  # En Windows: mi_entorno\Scripts\activate
 ```
----
+
 ### 3. Control de Versiones
 
 El control de versiones es esencial para gestionar cambios en el código fuente y colaborar en proyectos.
@@ -65,7 +65,7 @@ Si deseas profundizar sobre el control de versiones, te recomendamos uno de los 
 
 [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES](https://youtu.be/3GymExBkKjE)
 
----
+
 ### 4. Herramientas de Depuración
 
 La depuración es clave para identificar y corregir errores en el código. Algunas herramientas útiles son:
@@ -85,7 +85,7 @@ def sumar(a, b):
 sumar(3, 5)
 ```
 
----
+
 ## Conclusión
 
 Las herramientas básicas de programación permiten mejorar la eficiencia y organización del código. Desde editores e IDEs hasta sistemas de control de versiones y depuradores, todas cumplen un rol fundamental en el desarrollo de software.
