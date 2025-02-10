@@ -11,17 +11,20 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   ├── 📄 que-es-programacion.md 
 │   ├── 📄 historia-programacion.md
 │   ├── 📄 lenguajes-populares.md
-│   ├── 📄 herramientas-basicas.md
+│   └── 📄 herramientas-basicas.md
 ├── 📂 2_condicionales/
-│   ├── 📂 variables-tipos-datos/
-│   ├── 📂 operadores/
-│   ├── 📂 funciones/
-│   ├── 📂 comentarios/
+│   ├── 📂 1_variables/
+│   ├── 📂 2_tipos-datos/
+│   ├── 📂 3_operadores/
+│   ├── 📂 4_funciones/
+│   └── 📂 5_comentarios/
 ├── 📂 3-estructuras-datos/
-│   ├── 📂 arrays-listas/
+│   ├── 📂 listas/
+│   ├── 📂 listas/
+│   ├── 📂 arrays/
 │   ├── 📂 diccionarios/
 │   ├── 📂 pilas-colas/
-│   ├── 📂 estructuras-complejas/
+│   └── 📂 estructuras-complejas/
 ├── 📂 4-programacion-orientada-objetos/
 │   ├── 📂 clases-objetos/
 │   ├── 📂 herencia/
