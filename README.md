@@ -14,6 +14,9 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   └── 📄 herramientas-basicas.md
 ├── 📂 2_condicionales/
 │   ├── 📂 1_variables/
+│   │   ├── 📄 variables.ipynb # Concepto
+│   │   ├── 📄 ejercicios.ipynb # Ejercicios de menor a mayor dificultad
+│   │   └── 📄 solucion.ypynb # Solucion de los ejercicios
 │   ├── 📂 2_tipos-datos/
 │   ├── 📂 3_operadores/
 │   ├── 📂 4_funciones/
