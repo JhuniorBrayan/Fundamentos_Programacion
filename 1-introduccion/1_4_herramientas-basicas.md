@@ -10,7 +10,7 @@ Este documento presenta las herramientas esenciales para iniciarse en la program
 
 ## Desarrollo
 
----
+
 ### 1. Editores de Texto y Entornos de Desarrollo
 
 Para escribir y ejecutar código en Python, es recomendable utilizar un editor de texto o un entorno de desarrollo integrado (IDE) que facilite la escritura del código. Algunas opciones populares incluyen:
@@ -85,7 +85,7 @@ def sumar(a, b):
 sumar(3, 5)
 ```
 
----
+
 ## Conclusión
 
 Las herramientas básicas de programación permiten mejorar la eficiencia y organización del código. Desde editores e IDEs hasta sistemas de control de versiones y depuradores, todas cumplen un rol fundamental en el desarrollo de software.
