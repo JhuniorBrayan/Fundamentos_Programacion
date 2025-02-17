@@ -22,12 +22,13 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   ├── 📂 4_funciones/
 │   └── 📂 5_comentarios/
 ├── 📂 3-estructuras-datos/
-│   ├── 📂 listas/
-│   ├── 📂 listas/
-│   ├── 📂 arrays/
-│   ├── 📂 diccionarios/
-│   ├── 📂 pilas-colas/
-│   └── 📂 estructuras-complejas/
+│   ├── 📂 3.1_Listas/
+│   ├── 📂 3.2_Arrays/
+│   ├── 📂 3.3_Diccionarios/
+│   ├── 📂 3.4_Pilas(Stacks)/
+│   ├── 📂 3.5_Colas(Queues)/
+│   ├── 📂 3.6_Conjuntos(Sets)/
+│   └── 📂 3.7_Estructuras-Complejas/
 ├── 📂 4-programacion-orientada-objetos/
 │   ├── 📂 clases-objetos/
 │   ├── 📂 herencia/
