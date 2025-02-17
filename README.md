@@ -16,7 +16,7 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   ├── 📂 1_variables/
 │   │   ├── 📄 variables.ipynb # Concepto
 │   │   ├── 📄 ejercicios.ipynb # Ejercicios de menor a mayor dificultad
-│   │   └── 📄 solucion.ypynb # Solucion de los ejercicios
+│   │   └── 📄 solucion.ypynb # Solución de los ejercicios
 │   ├── 📂 2_tipos-datos/
 │   ├── 📂 3_operadores/
 │   ├── 📂 4_funciones/
