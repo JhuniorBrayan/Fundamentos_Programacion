@@ -43,9 +43,9 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   └── 📂 5.5_algoritmos-de-ordenamiento/
 ├── 📂 6-manejo-errores/
 │   ├── 📂 6.1_Excepciones/
-│   ├── 📂 6.2_Debugging/
-│   ├── 📂 6.3_Buenas-practicas/
-│   └── 📂 6.4_Pruebas-unitarias/
+│   ├── 📂 6.2_Técnicas-de-Debugging/
+│   ├── 📂 6.3_Buenas-Practicas/
+│   └── 📂 6.4_Pruebas-Unitarias/
 ├── 📂 7-patrones-diseno/
 │   ├── 📂 introduccion-patrones.md
 │   ├── 📂 patrones-creacionales.md
