@@ -215,10 +215,6 @@ Incluye proyectos sencillos para aplicar lo aprendido, como una calculadora, un 
 Proporciona enlaces a libros, cursos, comunidades, blogs, podcasts y herramientas avanzadas para seguir aprendiendo.
 
 # Buenas Prácticas para el Repositorio
-
-- **Documentación clara**: Cada archivo debe estar bien documentado con ejemplos de código y explicaciones sencillas.
-- **Ejemplos prácticos**: Incluye ejemplos de código en varios lenguajes (Python, JavaScript, Java, etc.) para que sea accesible a más personas.
-- **Enlaces externos**: Proporciona referencias a recursos externos para profundizar en cada tema.
 - **Licencia**: Añade una licencia (como MIT o Apache) para que otros puedan usar y contribuir al repositorio.
 - **Contribuciones**: Fomenta las contribuciones con un archivo `CONTRIBUTING.md` que explique cómo colaborar.
 
