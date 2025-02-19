@@ -30,17 +30,17 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   ├── 📂 3.6_Conjuntos(Sets)/
 │   └── 📂 3.7_Estructuras-Complejas/
 ├── 📂 4-programacion-orientada-objetos/
-│   ├── 📂 clases-objetos/
-│   ├── 📂 herencia/
-│   ├── 📂 polimorfismo/
-│   ├── 📂 encapsulamiento/
-│   └── 📂 principios-solid/
+│   ├── 📂 4.1_Clases-objetos/
+│   ├── 📂 4.2_Herencia/
+│   ├── 📂 4_3_Polimorfismo/
+│   ├── 📂 4.4_Encapsulamiento/
+│   ├── 📂 4.5_Abstracción/
+│   └── 📂 4.6_principios-solid/
 ├── 📂 5-algoritmos/
-│   ├── 📂 que-es-algoritmo/
-│   ├── 📂 complejidad-algoritmica/
-│   ├── 📂 busqueda/
-│   ├── 📂 ordenamiento/
-│   └── 📂 algoritmos-comunes/
+│   ├── 📂 5.1_¿Qué-es-un-algoritmo?/
+│   ├── 📂 5.2_Complejidad-algoritmica/
+│   ├── 📂 5.3_Algoritmos-de-búsqueda/
+│   └── 📂 5.5_algoritmos-de-ordenamiento/
 ├── 📂 6-manejo-errores/
 │   ├── 📂 excepciones/
 │   ├── 📂 debugging/
