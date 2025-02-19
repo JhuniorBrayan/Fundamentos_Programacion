@@ -42,10 +42,10 @@ Este repositorio contiene material sobre los fundamentos de la programación, in
 │   ├── 📂 5.3_Algoritmos-de-búsqueda/
 │   └── 📂 5.5_algoritmos-de-ordenamiento/
 ├── 📂 6-manejo-errores/
-│   ├── 📂 excepciones/
-│   ├── 📂 debugging/
-│   ├── 📂 buenas-practicas/
-│   └── 📂 pruebas-unitarias/
+│   ├── 📂 6.1_Excepciones/
+│   ├── 📂 6.2_Debugging/
+│   ├── 📂 6.3_Buenas-practicas/
+│   └── 📂 6.4_Pruebas-unitarias/
 ├── 📂 7-patrones-diseno/
 │   ├── 📂 introduccion-patrones.md
 │   ├── 📂 patrones-creacionales.md
